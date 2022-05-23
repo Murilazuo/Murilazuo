@@ -12,6 +12,7 @@ Estudo desenvolvimento de jogos desde o início de 2021, já participei de diver
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilazuo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilazuo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
   
 ### Contatos
 <a href="https://murilo-bezerra.itch.io" target="_blank"><img src="https://static.itch.io/images/logo_rect.png" target="_blank" height="28"></a> <a href = "mailto:murilozerra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
