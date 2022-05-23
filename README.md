@@ -2,8 +2,9 @@
 
 Estudo desenvolvimento de jogos desde o início de 2021, já participei de diverças game jams. No segundo semestre de 2021 ingressei no curso de Jogos Digitais da UniRitter. Lá tive a oportunidade de entrar na Squere Pix, um estúdio de desenvolvimento de jogos dentro da faculdade, onde tive e estou tendo uma experiência mis próxima do mercado de trabalho, com prazos, clientes externos, sprints, trabalho em equipe e reuniões. Atualmente estou como lider de programação em dois projetos que serão lançados em breve.
 
+
 ### Tecnologias
-<img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" width="40" height="40"/>
+<img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/78811958/169853125-f1e80df4-c0ed-497f-988b-bee3ad20265f.png" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" width="40" height="40"/>
 
 ### Estou Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
