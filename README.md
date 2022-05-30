@@ -1,6 +1,6 @@
 ### Olá, Seja bem-vindo ao meu GitHub! 👋
 
-Estudo desenvolvimento de jogos desde o início de 2021, já participei de diverças game jams. No segundo semestre de 2021 ingressei no curso de Jogos Digitais da UniRitter. Lá tive a oportunidade de entrar na Squere Pix, um estúdio de desenvolvimento de jogos dentro da faculdade, onde tive e estou tendo uma experiência mis próxima do mercado de trabalho, com prazos, clientes externos, sprints, trabalho em equipe e reuniões. Atualmente estou como líder de programação em um projetos que serão lançados em breve.
+Estudo desenvolvimento de jogos desde o início de 2021, já participei de diversas game jams. No segundo semestre de 2021 ingressei no curso de Jogos Digitais da UniRitter. Lá tive a oportunidade de entrar na Squere Pix, um estúdio de desenvolvimento de jogos dentro da faculdade, onde tive e estou tendo uma experiência mis próxima do mercado de trabalho, com prazos, clientes externos, sprints, trabalho em equipe e reuniões. Atualmente estou como líder de programação em um projetos que serão lançados em breve.
 
 
 ### Tecnologias
