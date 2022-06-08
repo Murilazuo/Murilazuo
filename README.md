@@ -4,12 +4,13 @@ Estudo desenvolvimento de jogos desde o início de 2021, já participei de diver
 
 
 ### Tecnologias
-<img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/78811958/169853125-f1e80df4-c0ed-497f-988b-bee3ad20265f.png" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" width="40" height="40"/>
+<img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/78811958/169853125-f1e80df4-c0ed-497f-988b-bee3ad20265f.png" width="40" height="40"/> <img src="https://camo.githubusercontent.com/b2185fa5e94ba61c3d89b73d5a330ce0f95b534e9a4f0b04136c7166f571e455/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f6373686172705f6f726967696e616c5f6c6f676f5f69636f6e5f3134363537382e706e67" width="40" height="40"/>
 
 ### Estou Aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="40" height="40" />
- 
-<a href="https://github.com/seu-usuário-aqui">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="43" height="40" />
+
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilazuo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilazuo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
